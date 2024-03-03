@@ -1,16 +1,10 @@
 # CS305
 Software Security 
 
-Briefly summarize your client, Artemis Financial, and their software requirements. Who was the client? What issue did they want you to address?
+Artemis Financial, a notable financial institution, aimed to fortify its software against potential vulnerabilities to safeguard sensitive financial data and ensure uninterrupted services for its clientele. As a client, Artemis emphasized securing their software infrastructure to uphold customer trust and protect against breaches. Their requirements focused on conducting a comprehensive vulnerability assessment to identify and address potential weaknesses within their systems, mitigating the risk of security breaches, and ensuring compliance with industry standards and regulations.
 
-What did you do very well when you found your client’s software security vulnerabilities? Why is it important to code securely? What value does software security add to a company’s overall wellbeing?
+In uncovering Artemis Financial's software security vulnerabilities, I demonstrated attention to detail and a systematic problem-solving approach. This involved code reviews, penetration testing, and analyzing system architecture to pinpoint potential weaknesses. Secure coding practices are essential for defending against cyber threats, protecting data, and maintaining a company's reputation. Prioritizing software security allows companies to uphold integrity, comply with regulations, and mitigate financial and reputational risks associated with breaches.
 
-What part of the vulnerability assessment was challenging or helpful to you?
+Throughout the vulnerability assessment process, challenges included identifying obscure vulnerabilities and ensuring comprehensive coverage. However, leveraging industry-standard methodologies and specialized tools facilitated effective vulnerability detection and remediation. To enhance security layers, I implemented multifactor authentication, data encryption, and strict access controls. Employing automated vulnerability scanners and threat modeling techniques in future assessments could streamline vulnerability identification and aid in selecting appropriate mitigation strategies. Rigorous testing post-refactoring, including running Maven dependency reports, static testing, and incorporating AES encryption, HTTPS, and cipher keys, ensured the code remained functional while addressing any newly introduced vulnerabilities, upholding software integrity and security.
 
-How did you increase layers of security? In the future, what would you use to assess vulnerabilities and decide which mitigation techniques to use?
-
-How did you make certain the code and software application were functional and secure? After refactoring the code, how did you check to see whether you introduced new vulnerabilities?
-
-What resources, tools, or coding practices did you use that might be helpful in future assignments or tasks?
-
-Employers sometimes ask for examples of work that you have successfully completed to show your skills, knowledge, and experience. What might you show future employers from this assignment?
+In this assignment, I utilized resources and tools such as Maven dependency reports, static testing, AES encryption, HTTPS, and cipher keys, proving invaluable in identifying and addressing software vulnerabilities effectively. Moving forward, these tools and practices will be essential assets for tasks requiring software security assessments or secure coding practices. Presenting this project to potential employers demonstrates proficiency in software security and vulnerability assessment, emphasizing commitment to delivering secure software solutions and thoroughness in the assessment process.
